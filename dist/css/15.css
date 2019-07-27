@@ -1,0 +1,21 @@
+
+.valid-code[data-v-36fbb310],.tool-line[data-v-36fbb310]{
+	font-size: 14px;
+	color: #673ab7;
+	cursor: pointer;
+}
+.valid-cnt[data-v-36fbb310] {
+	font-size: 14px;
+}
+.tool-line[data-v-36fbb310]{
+	display: flex;
+	justify-content: center;
+}
+.input-label[data-v-36fbb310] {
+	margin: 5px 20px;
+	color: #3c3c3c;
+}
+.btn[data-v-36fbb310]{
+	margin-top: -10px;
+}
+

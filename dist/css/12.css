@@ -1,0 +1,116 @@
+
+.button-big[data-v-0d1bf292] {
+		vertical-align: middle;
+		display: inline-block;
+		background-color: white;
+		text-align: center;
+		padding: 8px 20px;
+		margin: 20px;
+		line-height: 28px;
+		border-radius: 28px;
+		cursor: pointer;
+    border: 1px solid #673ab7;
+}
+.button-medium[data-v-0d1bf292] {
+  	vertical-align: middle;
+  	display: inline-block;
+  	background-color: white;
+  	text-align: center;
+  	padding: 4px 0;
+  	margin: 10px 0;
+  	line-height: 20px;
+  	border-radius: 20px;
+  	cursor: pointer;
+    border: 1px solid #673ab7;
+}
+.button-small[data-v-0d1bf292] {
+		vertical-align: middle;
+		display: inline-block;
+		background-color: white;
+		text-align: center;
+		padding: 4px 0;
+		margin: 10px 0;
+		line-height: 18px;
+		border-radius: 20px;
+		cursor: pointer;
+    border: 1px solid #673ab7;
+}
+.button-big div[data-v-0d1bf292]{
+		color:#673ab7;
+}
+.button-medium div[data-v-0d1bf292]{
+		font-size: 14px;
+    color:#673ab7;
+}
+.button-small div[data-v-0d1bf292]{
+		font-size: 12px;
+		color:#673ab7;
+}
+.button-countdown[data-v-0d1bf292]{
+		opacity: 0.3;
+}
+*[data-v-0d1bf292] {
+		font-size: 16px;
+}
+
+
+.my-point[data-v-6c591fde]{
+  margin: 10px 0 30px 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  line-height: 28px;
+}
+.my-point span[data-v-6c591fde]{
+  font-size: 16px;
+  color: #333333;
+}
+.button-row[data-v-6c591fde]{
+  display: flex;
+  justify-content: center;
+}
+.point-button[data-v-6c591fde]{
+    margin: 0 20px;
+}
+.info-row[data-v-6c591fde]{
+   margin: -15px 20px 20px 20px;
+   width: calc(100% - 40px);
+}
+.left-side[data-v-6c591fde]{
+   display: inline-block;
+   vertical-align: top;
+   margin-top: 4px;
+}
+.right-side[data-v-6c591fde]{
+    display: inline-block;
+}
+.text-small[data-v-6c591fde]{
+   line-height: 22px;
+   color: #131313;
+   font-weight: 400px;
+}
+.text-media[data-v-6c591fde]{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: bolder;
+}
+.text-big[data-v-6c591fde]{
+    font-size: 18px;
+    font-weight: bolder;
+}
+.card-inner[data-v-6c591fde]{
+   width: 100%;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.zoo-point[data-v-6c591fde] {
+   background: #F5F5F5;
+   width: 100vw;
+   padding: 5px 0;
+   overflow: auto;
+   min-height: calc(100vh - 172px);
+}
+

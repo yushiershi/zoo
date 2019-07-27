@@ -1,0 +1,30 @@
+
+.list-item[data-v-b5100e7c]{
+  width: calc(100vw - 40px);
+  border-bottom: 1px solid #DCDFE6;
+  font-size: 16px;
+  color: #302f2f;
+  line-height: 20px;
+  padding: 16px 20px;
+  font-weight: bolder;
+}
+
+
+.info-line[data-v-3ebf16e9]{
+  background-color: #fffac7;
+  color: #ff6e17;
+  font-size: 16px;
+  margin: -15px 0 20px 0;
+  padding: 10px 15px;
+  line-height: 32px;
+}
+.right-float[data-v-3ebf16e9]{
+  float: right;
+  font-size: 16px;
+  max-width: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-break: keep-all;
+  word-wrap: normal;
+}
+

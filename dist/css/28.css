@@ -1,0 +1,28 @@
+
+.upload-img[data-v-cce1a6c6]{
+  width: 120px;
+  height: 120px;
+  border: 1px solid #eeeeee;
+  background-color: #EFEFEF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.upload-img-show[data-v-cce1a6c6]{
+  width: 120px;
+  height: 120px;
+  border: 1px solid #eeeeee;
+  background-color: white;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.close-img[data-v-cce1a6c6]{
+  margin-left: -20px;
+  margin-right: -20px;
+  margin-top: -20px;
+  background-color:#EFEFEF;
+  border-radius:50px;
+  border: 1px solid #eeeeee;
+}
+

@@ -1,0 +1,23 @@
+
+.service-index[data-v-17fbe54e] {
+	position: absolute;
+	top: 30px;
+	left: 0;
+	right: 0;
+	bottom: 80px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.icon-item[data-v-17fbe54e] {
+	text-align: center;
+	cursor: pointer;
+}
+.icon-text[data-v-17fbe54e] {
+	margin: 10px;
+	text-align: center;
+	color: #5d5d5d;
+	font-size: 16px;
+}
+

@@ -1,0 +1,20 @@
+
+.back-content[data-v-2a224bbc]{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url(/zoo/dist/images/invite_bg-cbe5b9b0.png);
+  background-size: 100% 100%;
+}
+.center-area[data-v-2a224bbc]{
+  width: 100%;
+  margin-top: 45vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  line-height: 6vh;
+}
+
