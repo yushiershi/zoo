@@ -1,0 +1,47 @@
+html,body,#app,.el-container{
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+* {
+	font-size: 12px;
+	color: #333333;
+  font-family: arial;
+  word-break: break-all;
+  word-wrap: break-word;
+}
+.el-main{
+  padding: 10px !important;
+}
+.el-message{
+  min-width: 80vw !important;
+}
+.el-message-box,.el-dialog{
+  width: 90vw;
+}
+.el-button{
+  outline: none !important;
+}
+.el-message-box__btns .el-button--default span{
+  color: #673ab7 !important;
+}
+.el-message-box__btns .el-button--primary{
+  background-color: #673ab7 !important;
+  border: 1px solid #673ab7!important;
+}
+.el-message-box__btns .el-button--primary span{
+  color: white !important;
+}
+.el-select .el-input__inner{
+  background-color: #EFEFEF !important;
+  border: 1px solid #eeeeee;
+  border-radius: 8px;
+  outline: none !important;
+  -webkit-appearance:none !important;
+}
+.el-select .el-input__inner:focus,.el-select .el-input.is-focus .el-input__inner{
+  border: 1px solid #eeeeee;
+  outline: none !important;
+  -webkit-appearance:none !important;
+}

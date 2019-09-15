@@ -1,0 +1,120 @@
+
+.animal-card[data-v-a0f21188] {
+		display: inline-block;
+		cursor: pointer;
+		width: calc(50% - 12px);
+		margin: 10px 5px;
+}
+.animal-card-inner[data-v-a0f21188]{
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+}
+.each-line[data-v-a0f21188] {
+		width: 100%;
+		text-align: left;
+    position: relative;
+}
+.animal-img[data-v-a0f21188]{
+		width: calc(100% - 58px);
+}
+.line-title[data-v-a0f21188]{
+		color: #949494;
+		font-size: 14px;
+}
+.line-text[data-v-a0f21188] {
+		color: #4f4e4e;
+		font-size: 14px;
+		font-weight: bolder;
+		word-break: break-all;
+		word-wrap: break-word;
+}
+.animal-hr[data-v-a0f21188]{
+		border-top: 1px dashed #949494;
+		margin: 20px 0 10px 0;
+}
+.line-right[data-v-a0f21188]{
+    display: inline-block;
+    width: 50px;
+}
+.cnt-down[data-v-a0f21188]{
+    width: 100%;
+    text-align: center;
+    color: red;
+    line-height: 15px;
+}
+.animation[data-v-a0f21188]{
+    position: absolute;
+    top: 0;/* calc(50vh - 170px); */
+    left: 0;/* calc(50vw - 161px); */
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0,0,0,0.8);
+    z-index: 9;
+}
+.animation-inner[data-v-a0f21188]{
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.animation-inner img[data-v-a0f21188]{
+    width: 320px;
+}
+.close-icon[data-v-a0f21188]{
+    position: absolute;
+    background-color:#EFEFEF;
+    border-radius:50px;
+    border: 1px solid #eeeeee;
+    top: calc(40vh - 140px);
+    right: calc(50vw - 180px);
+}
+.line-right-title[data-v-a0f21188]{
+    position: absolute;
+    left: calc(50% + 17px);
+    right: 5px;
+    top: -5px;
+    text-align: center;
+}
+
+
+.animal-card .el-card{
+	border-radius: 20px !important;
+}
+.animal-card .el-card__body{
+	padding: 10px !important;
+}
+
+
+.animal-list[data-v-138286c2]{
+	width: 100%;
+	margin: 5px 0;
+}
+.logo-header[data-v-138286c2]{
+	background-color: #111a44;
+	margin: -10px -10px 20px -10px;
+	padding: 5px 10px;
+	position: relative;
+}
+.zoo-text[data-v-138286c2]{
+	position: absolute;
+	top: 0;
+	right: 20px;
+	bottom: 0;
+	color: white;
+	font-weight: 600;
+	letter-spacing:1px;
+	font-family: arial;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+*[data-v-138286c2] {
+	font-size: 12px;
+}
+

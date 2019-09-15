@@ -1,21 +1,11 @@
 
-.valid-code[data-v-36fbb310],.tool-line[data-v-36fbb310]{
-	font-size: 14px;
-	color: #673ab7;
-	cursor: pointer;
-}
-.valid-cnt[data-v-36fbb310] {
-	font-size: 14px;
-}
-.tool-line[data-v-36fbb310]{
-	display: flex;
-	justify-content: center;
-}
-.input-label[data-v-36fbb310] {
-	margin: 5px 20px;
-	color: #3c3c3c;
-}
-.btn[data-v-36fbb310]{
-	margin-top: -10px;
+.list-item[data-v-b5100e7c]{
+  width: calc(100vw - 40px);
+  border-bottom: 1px solid #DCDFE6;
+  font-size: 16px;
+  color: #302f2f;
+  line-height: 20px;
+  padding: 16px 20px;
+  font-weight: bolder;
 }
 

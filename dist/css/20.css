@@ -1,33 +1,29 @@
 
-.foot-tools[data-v-c9a65f5a]{
-		width: calc(100% + 40px);
-		height: 60px;
-		margin: 0 -20px;
-		display: flex;
-		justify-content: space-around;
-		background-color: #283369;
+.logo[data-v-36f9c5e7]{
+	width: 100%;
+	height: 30vh;
+	margin: 5vh 0 3vh 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
-.icon-tool[data-v-c9a65f5a]{
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-		cursor: pointer;
+.valid-code[data-v-36f9c5e7],.tool-line[data-v-36f9c5e7]{
+	font-size: 14px;
+	color: #673ab7;
+	cursor: pointer;
 }
-.tool-title[data-v-c9a65f5a] {
-		margin-top: 2px;
-		color: white;
-		font-size: 12px;
+.valid-cnt[data-v-36f9c5e7] {
+	font-size: 14px;
 }
-  /* 可以设置不同的进入和离开动画 */
-  /* 设置持续时间和动画函数 */
-.zoo-fade-enter-active[data-v-c9a65f5a] {
-    transition: all .2s ease;
+.tool-line[data-v-36f9c5e7]{
+	display: flex;
+	justify-content: center;
 }
-.zoo-fade-leave-active[data-v-c9a65f5a] {
-    transition: all .2s ease;
+.input-label[data-v-36f9c5e7] {
+	margin: 5px 20px;
+	color: #3c3c3c;
 }
-.zoo-fade-enter[data-v-c9a65f5a], .zoo-fade-leave-to[data-v-c9a65f5a]{
-    opacity: 0;
+.btn[data-v-36f9c5e7]{
+	margin-top: -10px;
 }
 

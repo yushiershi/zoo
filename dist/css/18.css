@@ -1,11 +1,33 @@
 
-.list-item[data-v-b5100e7c]{
-  width: calc(100vw - 40px);
-  border-bottom: 1px solid #DCDFE6;
-  font-size: 16px;
-  color: #302f2f;
-  line-height: 20px;
-  padding: 16px 20px;
-  font-weight: bolder;
+.foot-tools[data-v-c9a65f5a]{
+		width: calc(100% + 40px);
+		height: 60px;
+		margin: 0 -20px;
+		display: flex;
+		justify-content: space-around;
+		background-color: #283369;
+}
+.icon-tool[data-v-c9a65f5a]{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		cursor: pointer;
+}
+.tool-title[data-v-c9a65f5a] {
+		margin-top: 2px;
+		color: white;
+		font-size: 12px;
+}
+  /* 可以设置不同的进入和离开动画 */
+  /* 设置持续时间和动画函数 */
+.zoo-fade-enter-active[data-v-c9a65f5a] {
+    transition: all .2s ease;
+}
+.zoo-fade-leave-active[data-v-c9a65f5a] {
+    transition: all .2s ease;
+}
+.zoo-fade-enter[data-v-c9a65f5a], .zoo-fade-leave-to[data-v-c9a65f5a]{
+    opacity: 0;
 }
 

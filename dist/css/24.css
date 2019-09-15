@@ -1,11 +1,35 @@
 
-.item-line[data-v-f3df7bba]{
-		margin: 10px 20px;
+.info-line[data-v-1ef07ed2]{
+    background-color: #fffac7;
+    color: #ff6e17;
     font-size: 16px;
-    line-height: 20px;
+    margin: -13px 0 20px 0;
+    padding: 10px 15px;
+    line-height: 32px;
 }
-.item-content[data-v-f3df7bba]{
+.item-line[data-v-1ef07ed2]{
+		margin: 10px 25px;
+		font-size: 16px;
+		line-height: 20px;
+}
+.item-content[data-v-1ef07ed2]{
+		font-size: 16px;
+		font-weight: bold;
+}
+.pay-line[data-v-1ef07ed2]{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.payinfo-line[data-v-1ef07ed2]{
+    margin-left: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: flex-start;
+}
+.payinfo-text[data-v-1ef07ed2]{
     font-size: 16px;
-    font-weight: bold;
+    font-weight: bolder;
 }
 
