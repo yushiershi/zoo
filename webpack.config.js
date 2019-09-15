@@ -1,4 +1,4 @@
-//引入必要的模块
+﻿//引入必要的模块
 const path = require('path');  //引入node的path模块
 const webpack = require('webpack'); //引入的webpack,使用lodash
 const HtmlWebpackPlugin = require('html-webpack-plugin')  //将html打包
@@ -131,7 +131,7 @@ module.exports = {
             // Options similar to the same options in webpackOptions.output
             // both options are optional
             filename: "css/[name].css",
-            chunkFilename: "css/[id].css"
+            chunkFilename: "css/[id].[chunkhash].css"
           }),  //[name] 默认  也可以自定义name  声明使用
         new HtmlWebpackPlugin({  //将模板的头部和尾部添加css和js模板,dist 目录发布到服务器上，项目包。可以直接上线
             file: 'index.html', //打造单页面运用 最后运行的不是这个
